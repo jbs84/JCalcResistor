@@ -1,0 +1,2 @@
+# JCalcResistor
+Electonic Resistor convert
